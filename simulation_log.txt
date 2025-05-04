@@ -1,0 +1,32 @@
+Game Summary:
+Agent 1:
+  Reached Goal: false
+  Moves: 10, Backtracks: 0
+  Traps: 0, Power-up: false
+  Stack Depth: 11
+
+Agent 2:
+  Reached Goal: false
+  Moves: 20, Backtracks: 0
+  Traps: 0, Power-up: false
+  Stack Depth: 21
+
+Agent 3:
+  Reached Goal: false
+  Moves: 20, Backtracks: 16
+  Traps: 10, Power-up: false
+  Stack Depth: 5
+
+Agent 4:
+  Reached Goal: false
+  Moves: 20, Backtracks: 0
+  Traps: 0, Power-up: false
+  Stack Depth: 21
+
+Agent 5:
+  Reached Goal: false
+  Moves: 20, Backtracks: 0
+  Traps: 0, Power-up: false
+  Stack Depth: 21
+
+Total Rounds: 100
